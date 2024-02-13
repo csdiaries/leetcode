@@ -6,3 +6,4 @@
 
 ## Binary Tree
 🟢 [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/) - [solution](https://github.com/csdiaries/leetcode/blob/main/trees/2236-root-equals-sum-of-children.go)    
+🟢 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) - [solution](https://github.com/csdiaries/leetcode/blob/main/trees/0104-maximum-depth-of-binary-tree.go)    
